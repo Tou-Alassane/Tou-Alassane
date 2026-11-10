@@ -1,5 +1,8 @@
 # TOU ALASSANE – Portfolio professionnel
-
+<p align="center">
+  <img src="photo.jpg" width="160"
+       style="border-radius:50%;">
+</p>
 Bienvenue sur mon portfolio professionnel.
 
 ## À propos
